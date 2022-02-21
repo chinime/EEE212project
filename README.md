@@ -12,6 +12,10 @@ Push on the "Simulate" button and follow the options available:
 1. If no instruction given, it opens a GUI to take the instructions
 2. Supported components are V, I, R, L, C, VCVS, CCCS, VCCS and CCVS.
 3. V and I can be DC or a single frequency sinusoidal AC (default frequency is set at 1 KHz)
-4. The simulation options are DC Sweep, AC Sweep and Bias Point Details and the commands supported are print, probe, dc, ac and op
-5. For Bias point, if any AC source present, it does seperate DC and sinusoidal analysis
-6. You can input your netlist file with comments (in netlist format) and alphaneumeric value representations (1k, 1u, 10.25Meg)
+4. AC source are represented as <name> <p_node> <n_node> AC <magnitude> <phase>
+5. The simulation options are DC Sweep, AC Sweep and Bias Point Details and the commands supported are print, probe, dc, ac and op
+6. For Bias point, if any AC source present, it does seperate DC and sinusoidal analysis
+7. You can write comments in your netlist file and it will be read just fine (in netlist format) 
+8. You can give alphaneumeric value representations (1k, 1u, 10.25Meg) along with the units*
+  
+Option 8 not available for the GUI that will open if no instructions are present
