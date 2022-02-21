@@ -19,6 +19,6 @@ Push on the "Simulate" button and follow the options available:
 8. You can give alphaneumeric value representations (1k, 1u, 10.25Meg) along with the units*
 9. DC sweep not supported if any any AC src is present
 10. For doing AC sweep, keep at least one AC src
-11. Linear abd Decade AC Sweep supported, octal not supported.
+11. Linear and Decade AC Sweep supported, octal not supported.
   
 *Option 8 not available for the GUI that will open if no instruction is present
