@@ -1,5 +1,5 @@
 # EEE212project
-Circuit Simulator with Netlist Parser and a layered GUI
+<b>Circuit Simulator with Netlist Parser and a layered GUI</b>
 
 Open project_main.mlapp to get to the start page of the project
 
