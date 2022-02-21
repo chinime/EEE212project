@@ -21,5 +21,6 @@ Push on the "Simulate" button and follow the options available:
 10. For doing AC sweep, keep at least one AC src
 11. Linear and Decade AC Sweep supported, octal not supported.
 
-* Just like in Netlist, you can comment a whole <b>line</b> only
-** Option 8 not available for the GUI that will open if no instruction is present
+*Just like in Netlist, you can comment a whole <b>line</b> only
+
+**Option 8 not available for the GUI that will open if no instruction is present
