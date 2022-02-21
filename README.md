@@ -17,5 +17,7 @@ Push on the "Simulate" button and follow the options available:
 6. For Bias point, if any AC source present, it does seperate DC and sinusoidal analysis
 7. You can write comments (in netlist format) in your netlist file and it will be read just fine  
 8. You can give alphaneumeric value representations (1k, 1u, 10.25Meg) along with the units*
+9. DC sweep not supported if any any AC src is present
+10. For doing AC sweep, keep at least one AC src
   
 *Option 8 not available for the GUI that will open if no instructions are present
