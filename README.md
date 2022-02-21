@@ -20,4 +20,4 @@ Push on the "Simulate" button and follow the options available:
 9. DC sweep not supported if any any AC src is present
 10. For doing AC sweep, keep at least one AC src
   
-*Option 8 not available for the GUI that will open if no instructions are present
+*Option 8 not available for the GUI that will open if no instruction is present
