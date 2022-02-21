@@ -1,0 +1,4 @@
+V(R1) = 0.9014sin(2*pi*f*t + 19.9962) for f = 1 kHz
+V(R2) = 0.2535sin(2*pi*f*t + 20.0035) for f = 1 kHz
+V(1) = 0.9014sin(2*pi*f*t + 19.9962) for f = 1 kHz
+I(R1) = 0.4507sin(2*pi*f*t + 19.9962) for f = 1 kHz

@@ -1,0 +1,13 @@
+---Net list report---
+number of lines in netlist: 9
+number of branches: 9
+number of nodes: 4
+number of unknown currents: 2
+number of RLC (passive components): 6
+number of inductors: 1
+number of independent voltage sources: 1
+number of independent current sources: 1
+number of E - VCVS: 0
+number of G - VCCS: 1
+number of F - CCCS: 0
+number of H - CCVS: 0
